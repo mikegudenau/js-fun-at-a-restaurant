@@ -2,10 +2,7 @@
 
 ## Overview
 
-In front end web development, the programming language you will encounter most
-often is JavaScript. Soon, we'll also use HTML and CSS to help a user interact
-with our applications, however before we do that, we need to understand how to
-use JavaScript to handle the logic of our applications.
+Part 2 (optional extra) of our first project at Turing, we were assigned Fun in the Library, unit testing. During this project, we gained experience working with variables, primitive data types, looping, arrays, and objects.
 
 In this project, you'll be gaining experience working with variables, primitive
 data types, looping, arrays, and objects. As you work through the
@@ -16,9 +13,11 @@ problem.
 
 ## Learning goals
 
-  - Understand what JavaScript primitives are, and how/when to use them
-  - Understand how to declare variables and assign data to them
-  - Practice using objects and arrays
+- Understand what JavaScript primitives are, and how/when to use them
+- Practice using objects and arrays, including for loops
+- Understand JavaScript data types and how/when to use them
+- Write functions that require conditional logic, parameters/arguments, and return
+- Read and understand unit tests, and pass them
 
 ## Setup
 
